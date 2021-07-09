@@ -1,0 +1,37 @@
+/*nav-bar*/
+.navbar {
+    background-color: #E7717d;
+    height: 70px;    
+}
+.navbar-B{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: 30px;
+    padding-left: 6rem;
+    color: white;
+    text-decoration: none;
+}
+    
+.collapse{
+    background-color: #E7717d;
+    justify-content: space-evenly;
+}
+.nav-l{
+    font-size:18px ;
+    margin-left: 40px;
+    display: block;
+    color: white;
+    padding: .5rem 1rem;
+    text-decoration: none;
+}
+.navbar-B:hover{
+    color:white;
+}
+.nav-l:hover{
+    color: rgb(199, 184, 184);  
+}
+/* banner*/
+.jumbotron{
+    height: 500px;
+    background-color: yellow;
+}
